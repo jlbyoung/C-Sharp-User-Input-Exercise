@@ -1,0 +1,9 @@
+e:\users\james\documents\visual studio 2013\Projects\Userinputexercise\Userinputexercise\bin\Debug\Userinputexercise.exe.config
+e:\users\james\documents\visual studio 2013\Projects\Userinputexercise\Userinputexercise\bin\Debug\Userinputexercise.exe
+e:\users\james\documents\visual studio 2013\Projects\Userinputexercise\Userinputexercise\bin\Debug\Userinputexercise.pdb
+e:\users\james\documents\visual studio 2013\Projects\Userinputexercise\Userinputexercise\obj\Debug\Userinputexercise.csprojResolveAssemblyReference.cache
+e:\users\james\documents\visual studio 2013\Projects\Userinputexercise\Userinputexercise\obj\Debug\Userinputexercise.exe
+e:\users\james\documents\visual studio 2013\Projects\Userinputexercise\Userinputexercise\obj\Debug\Userinputexercise.pdb
+E:\Users\James\Documents\Visual Studio 2013\Projects_VS13\Userinputexercise\Userinputexercise\bin\Debug\Userinputexercise.exe.config
+E:\Users\James\Documents\Visual Studio 2013\Projects_VS13\Userinputexercise\Userinputexercise\obj\Debug\Userinputexercise.exe
+E:\Users\James\Documents\Visual Studio 2013\Projects_VS13\Userinputexercise\Userinputexercise\obj\Debug\Userinputexercise.pdb
